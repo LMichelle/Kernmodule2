@@ -33,5 +33,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-Kernmodule2/Library
-Kernmodule2/.vs
+Lessen/Library
+Lessen/.vs
